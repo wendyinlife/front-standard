@@ -9,7 +9,7 @@ export default defineUserConfig({
     locales: {
       '/': {
         lang: 'zh-CN',
-        title: '印客学院',
+        title: 'wendy前端规范',
         description: '前端编码规范工程化',
       },
     },

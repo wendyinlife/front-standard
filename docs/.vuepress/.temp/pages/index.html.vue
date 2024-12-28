@@ -50,7 +50,7 @@
 </br>
 <h2 id="联系" tabindex="-1"><a class="header-anchor" href="#联系"><span>📧 联系</span></a></h2>
 <ul>
-<li><strong>印客学院官网</strong>: <a href="http://encodestudio.cn" target="_blank" rel="noopener noreferrer">http://encodestudio.cn</a></li>
+<li><strong>wendy前端规范官网</strong>: <a href="http://encodestudio.cn" target="_blank" rel="noopener noreferrer">http://encodestudio.cn</a></li>
 <li><strong>GitHub</strong>: <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank" rel="noopener noreferrer">https://github.com/encode-studio-fe/fe-spec</a></li>
 </ul>
 </br>
