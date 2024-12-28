@@ -4,6 +4,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   bundler: viteBundler(),
+  base: "/front-standard/",
   theme: defaultTheme({
     locales: {
       '/': {
