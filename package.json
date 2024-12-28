@@ -14,9 +14,7 @@
     "typescript": "^5.7.2",
     "vue-template-compiler": "^2.7.16",
     "vuepress-plugin-one-click-copy": "^1.0.6",
-    "vuepress-plugin-zooming": "^1.1.8"
-  },
-  "devDependencies": {
+    "vuepress-plugin-zooming": "^1.1.8",
     "@vuepress/bundler-vite": "2.0.0-rc.19",
     "@vuepress/theme-default": "2.0.0-rc.66",
     "lerna": "^8.1.9",
