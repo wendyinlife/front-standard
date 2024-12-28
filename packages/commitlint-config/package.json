@@ -1,0 +1,15 @@
+{
+  "name": "commitlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhaowenyuan <zhaowenyuan@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^8.0.0"
+  }
+}

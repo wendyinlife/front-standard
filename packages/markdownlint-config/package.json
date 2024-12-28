@@ -1,0 +1,15 @@
+{
+  "name": "markdownlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhaowenyuan <zhaowenyuan@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "dependencies": {
+    "markdownlint": "^0.37.2"
+  }
+}
