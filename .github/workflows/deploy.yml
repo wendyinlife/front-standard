@@ -15,10 +15,14 @@ jobs:
         with:
           node-version: 18.19.0
 
-      - name:  Install and Build
+      - name:  Install
         run: 
           npm i -g pnpm
           pnpm run init
+        env:
+          NODE_OPTIONS: '--max_old_space_size=4096'
+      - name: Build
+        run: 
           pnpm run docs:build
         env:
           NODE_OPTIONS: '--max_old_space_size=4096'
